@@ -2,35 +2,48 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>king</key>
-	<string>software-package</string>
-	<key>url</key>
-	<string>https://github.com/sharpDeng/iosApp-upload/blob/master/DaFaPass.ipa</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>asset</key>
+			<array>
+				<dict>
+					<key>king</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/DaFaPass.ipa</string>
+				</dict>
+				<dict>
+					<key>king</key>
+					<string>full-size-imgage</string>
+					<key>needs-shine</key>
+					<true/>
+					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/180.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/40.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>budle-identifier</key>
+				<string>com.grandinsightcloud.test</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>掌上售楼处</string>
+			</dict>
+		</dict>
+		
+	</array>
 </dict>
-<dict>
-	<key>king</key>
-	<string>full-size-imgage</string>
-	<key>needs-shine</key>
-	<true/>
-	<string>https://github.com/sharpDeng/iosApp-upload/blob/master/180.png</string>
-</dict>
-<dict>
-	<key>kind</key>
-	<string>display-image</string>
-	<key>needs-shine</key>
-	<true/>
-	<key>url</key>
-	<string>https://github.com/sharpDeng/iosApp-upload/blob/master/40.png</string>
-</dict>
-<key>metadata</key>
-<dict>
-	<key>budle-identifier</key>
-	<string>com.grandinsightcloud.test</string>
-	<key>bundle-version</key>
-	<string>1.0.0</string>
-	<key>kind</key>
-	<string>software</string>
-	<key>title</key>
-	<string>掌上售楼处</string>
-</dict>
+
+
 </plist>
