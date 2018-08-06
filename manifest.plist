@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/DaFaPass.ipa</string>
+					<string>https://raw.githubusercontent.com/sharpDeng/iosApp-upload/master/manifest.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/180.png</string>
+					<string>https://raw.githubusercontent.com/sharpDeng/iosApp-upload/master/180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/sharpDeng/iosApp-upload/blob/master/40.png</string>
+					<string>https://raw.githubusercontent.com/sharpDeng/iosApp-upload/master/40.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
